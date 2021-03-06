@@ -38,7 +38,7 @@ def destandardise(column_name):
 
 # iterate over columns and apply function
 for column_name in df:
-    standardise(column_name)
+    destandardise(column_name)
 
 # write back to excel
 df.to_excel('C:/Users/jakub/OneDrive/Documents/Neural Networks/Data/Data.xlsx', index=False)
