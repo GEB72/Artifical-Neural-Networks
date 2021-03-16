@@ -1,0 +1,60 @@
+<component name="libraryTable">
+  <library name="poi-ooxml-lite-5.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-5.0.0-20210120/poi-5.0.0/poi-ooxml-lite-5.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-5.0.0-20210120/poi-5.0.0/poi-scratchpad-5.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-5.0.0-20210120/poi-5.0.0/poi-ooxml-5.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-5.0.0-20210120/poi-5.0.0/poi-ooxml-full-5.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-5.0.0-20210120/poi-5.0.0/poi-integration-5.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-5.0.0-20210120/poi-5.0.0/poi-excelant-5.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-5.0.0-20210120/poi-5.0.0/poi-examples-5.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-5.0.0-20210120/poi-5.0.0/poi-5.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-5.0.0-20210120/poi-5.0.0/ooxml-lib/xmlbeans-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-5.0.0-20210120/poi-5.0.0/ooxml-lib/curvesapi-1.06.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-5.0.0-20210120/poi-5.0.0/ooxml-lib/commons-compress-1.20.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-5.0.0-20210120/poi-5.0.0/lib/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-5.0.0-20210120/poi-5.0.0/lib/SparseBitSet-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-5.0.0-20210120/poi-5.0.0/lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-5.0.0-20210120/poi-5.0.0/lib/commons-codec-1.15.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../.." />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/poi-bin-5.0.0-20210120/poi-5.0.0/docs/apidocs/dev" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../.." />
+      <root url="file://$USER_HOME$/.atom/packages/Java-Bytecode-Disassembler/testing/AnonymousClasses/src" />
+      <root url="file://$USER_HOME$/.atom/packages/Java-Bytecode-Disassembler/testing/Point2d/src" />
+      <root url="file://$USER_HOME$/.atom/packages/script/examples" />
+      <root url="file://$USER_HOME$/Downloads/poi-5.0.0/osgi/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-5.0.0/osgi/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-5.0.0/src/contrib/poi-ruby/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-5.0.0/src/examples/src" />
+      <root url="file://$USER_HOME$/Downloads/poi-5.0.0/src/excelant/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-5.0.0/src/excelant/poi-ant-contrib" />
+      <root url="file://$USER_HOME$/Downloads/poi-5.0.0/src/excelant/testcases" />
+      <root url="file://$USER_HOME$/Downloads/poi-5.0.0/src/integrationtest" />
+      <root url="file://$USER_HOME$/Downloads/poi-5.0.0/src/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-5.0.0/src/ooxml/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-5.0.0/src/ooxml/testcases" />
+      <root url="file://$USER_HOME$/Downloads/poi-5.0.0/src/scratchpad/src" />
+      <root url="file://$USER_HOME$/Downloads/poi-5.0.0/src/scratchpad/testcases" />
+      <root url="file://$USER_HOME$/Downloads/poi-5.0.0/src/testcases" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.0.0-20210120/poi-5.0.0/osgi/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.0.0-20210120/poi-5.0.0/osgi/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.0.0-20210120/poi-5.0.0/src/contrib/poi-ruby/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.0.0-20210120/poi-5.0.0/src/examples/src" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.0.0-20210120/poi-5.0.0/src/excelant/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.0.0-20210120/poi-5.0.0/src/excelant/poi-ant-contrib" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.0.0-20210120/poi-5.0.0/src/excelant/testcases" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.0.0-20210120/poi-5.0.0/src/integrationtest" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.0.0-20210120/poi-5.0.0/src/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.0.0-20210120/poi-5.0.0/src/ooxml/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.0.0-20210120/poi-5.0.0/src/ooxml/testcases" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.0.0-20210120/poi-5.0.0/src/scratchpad/src" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.0.0-20210120/poi-5.0.0/src/scratchpad/testcases" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.0.0-20210120/poi-5.0.0/src/testcases" />
+      <root url="file://$PROJECT_DIR$" />
+    </SOURCES>
+  </library>
+</component>
